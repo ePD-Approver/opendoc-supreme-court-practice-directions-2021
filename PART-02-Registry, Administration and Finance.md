@@ -24,8 +24,8 @@
 	<li>19. Documents creating power of attorney</li>
 	<li>20. Filing directions to the Accountant-General for payment in or payment out or furnishing security for costs by depositing monies in the Registry</li>
 		<ul>
-			<li>Direction to Accountant-General for Payment In or Payment Out</li>
-			<li>Furnishing security for costs by depositing monies in the Registry</li>
+			<li><em>Direction to Accountant-General for Payment In or Payment Out</em></li>
+			<li><em>Furnishing security for costs by depositing monies in the Registry</em></li>
 			<li>Request for information on balance of monies paid into Court or deposited in the Registry</li>
 		</ul>
 	<li>21. Requests and other Correspondence</li>
@@ -48,7 +48,7 @@
 
 ## 10.	Business of the Registry
 
-(1)	Pursuant to section 71(1) of the Supreme Court of Judicature Act and Order 26, Rule 1(1) of the Rules of Court 2021, the Chief Justice has directed that the Registry of the Supreme Court (“the Registry”) comprises the Division for the Court of Appeal and the Appellate Division, the Division for the General Division and the Division for the Singapore International Commercial Court
+(1)	Pursuant to section 71(1) of the Supreme Court of Judicature Act 1969 and Order 26, Rule 1(1) of the Rules of Court 2021, the Chief Justice has directed that the Registry of the Supreme Court (“the Registry”) comprises the Division for the Court of Appeal and the Appellate Division, the Division for the General Division and the Division for the Singapore International Commercial Court
 
 (2)	There is to be a Divisional Registrar for the Court of Appeal and the Appellate Division, a Divisional Registrar for the General Division, and a Divisional Registrar for the Singapore International Commercial Court. The Divisional Registrar for each division of the Registry will have control and supervision of the affairs of that division. Overall control and supervision of the Registry will remain with the Registrar of the Supreme Court.
 
@@ -329,7 +329,7 @@ The Chief Justice has directed that the General Division, the Appellate Division
 
 (1)	Where monies are to be paid into Court pursuant to a judgment or order of court, a copy of the judgment or order must be attached to the draft Direction to Accountant-General for Payment In and filed into the case file via the Electronic Filing Service for approval by the Court. The Direction to Account-General for Payment In must be in Form 44(a) of Appendix A of these Practice Directions.
 
-(2)	Where monies are to be paid out of Court, a copy of the following document (as the case may be) must be attached to the draft Direction to Accountant-General for Payment Out and filed into the case file via the Electronic Filing Service for approval by the Court:
+(2)	Where monies are to be paid out of Court, a copy of one of the following documents must be attached to the draft Direction to Accountant-General for Payment Out and filed into the case file via the Electronic Filing Service for approval by the Court:
 
 <ul type="*">
 
@@ -343,13 +343,13 @@ The Direction to the Accountant-General for Payment Out must be in Form 44(b) of
 
 (3)	Each draft Direction to Accountant-General for Payment In or Payment Out must contain amounts in a single currency. Where monies in different currencies are to be paid into or out of Court, separate draft Directions must be prepared for each currency in which payment is to be made.
 
-**Direction to Accountant-General for Payment In or Payment Out**
+**<em>Direction to Accountant-General for Payment In or Payment Out</em>**
 
 (4)	Where the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the relevant judgment or order of court to VITAL by email to <a href="mailto:VITAL_FS_Receivable@vital.gov.sg" style="text-decoration:none;">VITAL_FS_Receivable@vital.gov.sg</a>. Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General.
 
 (5)	Where the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the relevant judgment or order of court to VITAL by email to <a href="mailto:VITAL_FS_Receivable@vital.gov.sg" style="text-decoration:none;">VITAL_FS_Receivable@vital.gov.sg</a>. Upon successful receipt of the documents, VITAL will provide instructions on the process for the release of the monies.
 
-**Furnishing security for costs by depositing monies in the Registry**
+**<em>Furnishing security for costs by depositing monies in the Registry</em>**
 
 (6)	Where a party wishes to furnish security for costs for an appeal or an application filed in the Supreme Court by depositing monies in the Registry, he or she must deposit the monies in one of the following manners:
 
