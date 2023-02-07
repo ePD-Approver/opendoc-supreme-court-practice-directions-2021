@@ -343,13 +343,13 @@ The Direction to the Accountant-General for Payment Out must be in Form 44(b) of
 
 (3)	Each draft Direction to Accountant-General for Payment In or Payment Out must contain amounts in a single currency. Where monies in different currencies are to be paid into or out of Court, separate draft Directions must be prepared for each currency in which payment is to be made.
 
-**<em>Direction to Accountant-General for Payment In or Payment Out</em>**
+***Direction to Accountant-General for Payment In or Payment Out***
 
 (4)	Where the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the relevant judgment or order of court to VITAL by email to <a href="mailto:VITAL_FS_Receivable@vital.gov.sg" style="text-decoration:none;">VITAL_FS_Receivable@vital.gov.sg</a>. Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General.
 
 (5)	Where the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the relevant judgment or order of court to VITAL by email to <a href="mailto:VITAL_FS_Receivable@vital.gov.sg" style="text-decoration:none;">VITAL_FS_Receivable@vital.gov.sg</a>. Upon successful receipt of the documents, VITAL will provide instructions on the process for the release of the monies.
 
-**<em>Furnishing security for costs by depositing monies in the Registry</em>**
+***Furnishing security for costs by depositing monies in the Registry***
 
 (6)	Where a party wishes to furnish security for costs for an appeal or an application filed in the Supreme Court by depositing monies in the Registry, he or she must deposit the monies in one of the following manners:
 
